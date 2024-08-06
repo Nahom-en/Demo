@@ -1,2 +1,2 @@
-# Demo
-A demo Repository Which has been created to practice 
+# Demo project
+This is the first demo project which has beeen created by my self only ad only.
